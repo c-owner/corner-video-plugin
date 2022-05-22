@@ -141,14 +141,14 @@ export default {
 
 
 
-| **Attributes** |                                              |      |
-| -------------- | -------------------------------------------- | ---- |
-| 속성           | 기능                                         | type |
-| id             | this.cld.videoPlayer()에 들어갈 id 값입니다. | bool |
-| controls       | 플레이어의 컨트롤 기능 on/off 여부           | bool |
-| muted          | 음소거 기능                                  | bool |
-| loop           | 무한 루프                                    | bool |
-| ...            |                                              |      |
+| **Attributes** |                                              |        |
+| -------------- | -------------------------------------------- | ------ |
+| 속성           | 기능                                         | type   |
+| id             | this.cld.videoPlayer()에 들어갈 id 값입니다. | string |
+| controls       | 플레이어의 컨트롤 기능 on/off 여부           | bool   |
+| muted          | 음소거 기능                                  | bool   |
+| loop           | 무한 루프                                    | bool   |
+| ...            |                                              |        |
 
 그외 추가 적인 속성은 추후 작성하겠습니다.
 
