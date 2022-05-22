@@ -6,15 +6,17 @@ auth : corner
 
 #### Description✍️
 
-Nuxt에서 Video를 배경으로 사용하는 방법은 몇 가지 있지만, 일반적으로 제공해주는 package를 사용해야합니다.
+Nuxt에서 Video를 배경으로 사용하는 방법은 몇 가지 있지만, 일반적으로 제공해주는 package를 사용해야합니다. 그렇지만 신뢰하기 어려운 기능들도 많이 있었습니다.
 
-또, 플레이어에 비디오를 넣기 위해서는 파일을 직접 local이나 배포되는 서버에 올리기지 않는 방법을 제시하고 있습니다.
-
-그러한 방법을 사용하지 않고 Video를 사용하는 방법을 제시하고 있습니다.
+또, 플레이어에 비디오를 넣기 위해서는 파일을 직접 local이나 배포되는 서버에 올리지 않는 방법으로 제시하고 있습니다.
 
 
 
 
+
+
+
+ [![img](https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/eight-corner)  [Github 소스](https://github.com/Eight-Corner/corner-video-plugin)
 
 
 
